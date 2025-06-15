@@ -86,10 +86,10 @@ If you need further information or help.
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/tranduytai9403/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/your.facebook">
+  <a href="https://www.facebook.com/tai.tranduy.520">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://github.com/tdtai09423">
