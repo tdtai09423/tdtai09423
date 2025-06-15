@@ -102,7 +102,7 @@ If you need further information or help.
 ---
 
 <p align="center">
-  <em>“Code with purpose, deploy with confidence.”</em>
+  <em>“Code with passion, deploy with confidence.”</em>
 </p>
 
 <p align="center">
