@@ -3,7 +3,6 @@
 </p>
 
 
-### I'm Trần Duy Tài
 
 ![Profile views](https://komarev.com/ghpvc/?username=tdtai09423&color=blue&style=flat)
 
