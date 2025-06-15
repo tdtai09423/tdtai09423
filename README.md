@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=170&section=header&text=Hello,%20I'm%20Trần%20Duy%20Tài!%20👋&fontSize=35&fontAlign=50&fontColor=ffffff" alt="header"/>
+</p>
+
 
 ### I'm Trần Duy Tài
 
@@ -98,6 +101,14 @@ If you need further information or help.
 </p>
 
 ---
+
+<p align="center">
+  <em>“Code with purpose, deploy with confidence.”</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+</p>
 
 > Credit: [tdtai09423](https://github.com/tdtai09423)  
 > Last Edited on: 6/15/2025
